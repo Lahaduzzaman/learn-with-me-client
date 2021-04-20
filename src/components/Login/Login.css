@@ -5,12 +5,12 @@
 .login-form{
     width:500px;
     margin:auto;
-    border:1px solid lightgray;
+    border:1px solid rgb(82, 136, 20);
     padding:100px 70px;
     border-radius:4px;   
 }
 .google-form{
-    border:1px solid lightgray;
+    border:1px solid rgb(158, 136, 35);
     border-radius:30px;
     padding-top:10px;
     padding-left:10px;
