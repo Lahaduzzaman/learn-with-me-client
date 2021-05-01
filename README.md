@@ -1,4 +1,7 @@
+Learn With Me is a skill development website.
+
 Live Site : https://learn-with-me-a77fc.web.app/
+
 
 Overview:
 
@@ -10,4 +13,5 @@ Overview:
 
 • Admin can add service make admin and see all orders submitted by clients.
 
-Technology: React, React-router, Bootstrap, Node.js, MongoDB, Firebase, Express.js, Heroku.
+
+Technology: React, React-Router, Bootstrap, Node.js, MongoDB, Firebase, Express.js, Heroku.
